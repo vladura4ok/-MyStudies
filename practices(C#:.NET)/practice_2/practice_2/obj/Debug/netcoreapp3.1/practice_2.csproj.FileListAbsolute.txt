@@ -1,0 +1,12 @@
+/Users/VlaD/Projects/practice_2/practice_2/bin/Debug/netcoreapp3.1/practice_2.deps.json
+/Users/VlaD/Projects/practice_2/practice_2/bin/Debug/netcoreapp3.1/practice_2.runtimeconfig.json
+/Users/VlaD/Projects/practice_2/practice_2/bin/Debug/netcoreapp3.1/practice_2.runtimeconfig.dev.json
+/Users/VlaD/Projects/practice_2/practice_2/bin/Debug/netcoreapp3.1/practice_2.dll
+/Users/VlaD/Projects/practice_2/practice_2/bin/Debug/netcoreapp3.1/practice_2.pdb
+/Users/VlaD/Projects/practice_2/practice_2/obj/Debug/netcoreapp3.1/practice_2.csprojAssemblyReference.cache
+/Users/VlaD/Projects/practice_2/practice_2/obj/Debug/netcoreapp3.1/practice_2.AssemblyInfoInputs.cache
+/Users/VlaD/Projects/practice_2/practice_2/obj/Debug/netcoreapp3.1/practice_2.AssemblyInfo.cs
+/Users/VlaD/Projects/practice_2/practice_2/obj/Debug/netcoreapp3.1/practice_2.csproj.CoreCompileInputs.cache
+/Users/VlaD/Projects/practice_2/practice_2/obj/Debug/netcoreapp3.1/practice_2.dll
+/Users/VlaD/Projects/practice_2/practice_2/obj/Debug/netcoreapp3.1/practice_2.pdb
+/Users/VlaD/Projects/practice_2/practice_2/obj/Debug/netcoreapp3.1/practice_2.genruntimeconfig.cache

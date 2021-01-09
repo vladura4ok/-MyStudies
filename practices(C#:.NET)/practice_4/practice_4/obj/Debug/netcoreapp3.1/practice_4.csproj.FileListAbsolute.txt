@@ -1,0 +1,12 @@
+/Users/VlaD/Projects/practice_4/practice_4/bin/Debug/netcoreapp3.1/practice_4.deps.json
+/Users/VlaD/Projects/practice_4/practice_4/bin/Debug/netcoreapp3.1/practice_4.runtimeconfig.json
+/Users/VlaD/Projects/practice_4/practice_4/bin/Debug/netcoreapp3.1/practice_4.runtimeconfig.dev.json
+/Users/VlaD/Projects/practice_4/practice_4/bin/Debug/netcoreapp3.1/practice_4.dll
+/Users/VlaD/Projects/practice_4/practice_4/bin/Debug/netcoreapp3.1/practice_4.pdb
+/Users/VlaD/Projects/practice_4/practice_4/obj/Debug/netcoreapp3.1/practice_4.csprojAssemblyReference.cache
+/Users/VlaD/Projects/practice_4/practice_4/obj/Debug/netcoreapp3.1/practice_4.AssemblyInfoInputs.cache
+/Users/VlaD/Projects/practice_4/practice_4/obj/Debug/netcoreapp3.1/practice_4.AssemblyInfo.cs
+/Users/VlaD/Projects/practice_4/practice_4/obj/Debug/netcoreapp3.1/practice_4.csproj.CoreCompileInputs.cache
+/Users/VlaD/Projects/practice_4/practice_4/obj/Debug/netcoreapp3.1/practice_4.dll
+/Users/VlaD/Projects/practice_4/practice_4/obj/Debug/netcoreapp3.1/practice_4.pdb
+/Users/VlaD/Projects/practice_4/practice_4/obj/Debug/netcoreapp3.1/practice_4.genruntimeconfig.cache
