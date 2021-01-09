@@ -1,0 +1,7 @@
+﻿using System;
+namespace laba1
+{
+	public struct laba1
+	{
+	}
+}
