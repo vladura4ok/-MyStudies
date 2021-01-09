@@ -1,0 +1,12 @@
+/Users/VlaD/Projects/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.deps.json
+/Users/VlaD/Projects/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.runtimeconfig.json
+/Users/VlaD/Projects/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.runtimeconfig.dev.json
+/Users/VlaD/Projects/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.dll
+/Users/VlaD/Projects/laba5/laba5/bin/Debug/netcoreapp3.1/laba5.pdb
+/Users/VlaD/Projects/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.csprojAssemblyReference.cache
+/Users/VlaD/Projects/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.AssemblyInfoInputs.cache
+/Users/VlaD/Projects/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.AssemblyInfo.cs
+/Users/VlaD/Projects/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.csproj.CoreCompileInputs.cache
+/Users/VlaD/Projects/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.dll
+/Users/VlaD/Projects/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.pdb
+/Users/VlaD/Projects/laba5/laba5/obj/Debug/netcoreapp3.1/laba5.genruntimeconfig.cache
