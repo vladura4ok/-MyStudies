@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gPEwhAgPH5T1JDSHK7JzJmgTbxJ65qm1ipnzO58VekxHSRxXJUSMlhL5DwbSBC3v38rj06tK7DWZ5NoVBJCY1w==",
+  "success": true,
+  "projectFilePath": "/Users/VlaD/Projects/laba_15/laba_15/laba_15.csproj",
+  "expectedPackageFiles": [
+    "/Users/VlaD/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
