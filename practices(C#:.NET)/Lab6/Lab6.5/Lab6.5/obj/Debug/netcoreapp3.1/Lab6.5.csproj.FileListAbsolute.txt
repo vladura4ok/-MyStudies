@@ -1,0 +1,13 @@
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\bin\Debug\netcoreapp3.1\Lab6.5.exe
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\bin\Debug\netcoreapp3.1\Lab6.5.deps.json
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\bin\Debug\netcoreapp3.1\Lab6.5.runtimeconfig.json
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\bin\Debug\netcoreapp3.1\Lab6.5.runtimeconfig.dev.json
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\bin\Debug\netcoreapp3.1\Lab6.5.dll
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\bin\Debug\netcoreapp3.1\Lab6.5.pdb
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\obj\Debug\netcoreapp3.1\Lab6.5.csprojAssemblyReference.cache
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\obj\Debug\netcoreapp3.1\Lab6.5.AssemblyInfoInputs.cache
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\obj\Debug\netcoreapp3.1\Lab6.5.AssemblyInfo.cs
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\obj\Debug\netcoreapp3.1\Lab6.5.csproj.CoreCompileInputs.cache
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\obj\Debug\netcoreapp3.1\Lab6.5.dll
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\obj\Debug\netcoreapp3.1\Lab6.5.pdb
+C:\Users\manic\OneDrive\Рабочий стол\КПЯП\ПРАКТИКА\Lab6\Lab6.5\Lab6.5\obj\Debug\netcoreapp3.1\Lab6.5.genruntimeconfig.cache
