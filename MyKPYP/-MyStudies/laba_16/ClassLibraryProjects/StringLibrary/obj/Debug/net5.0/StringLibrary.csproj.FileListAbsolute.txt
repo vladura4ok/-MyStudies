@@ -1,0 +1,12 @@
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/net5.0/StringLibrary.deps.json
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/net5.0/StringLibrary.dll
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/net5.0/ref/StringLibrary.dll
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/bin/Debug/net5.0/StringLibrary.pdb
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net5.0/StringLibrary.csprojAssemblyReference.cache
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net5.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net5.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net5.0/StringLibrary.AssemblyInfo.cs
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net5.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net5.0/StringLibrary.dll
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net5.0/ref/StringLibrary.dll
+/Users/VlaD/Projects/ClassLibraryProjects/StringLibrary/obj/Debug/net5.0/StringLibrary.pdb
